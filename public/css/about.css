@@ -1,0 +1,20 @@
+main{
+    min-height: 100vh;
+}
+
+section{
+    width: 100%;
+    min-height: 100vh;
+    background-color: whitesmoke;
+    padding: 30px 100px;
+}
+
+p{
+    font-size: 25pt;
+    font-family: cursive;
+    color: darkmagenta;
+}
+
+.pages{
+    text-indent: 30px;
+}

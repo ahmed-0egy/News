@@ -1,0 +1,26 @@
+main{
+    background-color: whitesmoke;
+}
+
+.container-card{
+    min-height: 300px; 
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.body-card{
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+
+.body-card:hover{
+    cursor: pointer;
+    transform: scale(1.02);
+    -webkit-transform: scale(1.02);
+    -moz-transform: scale(1.02);
+    -ms-transform: scale(1.02);
+    -o-transform: scale(1.02);
+}
